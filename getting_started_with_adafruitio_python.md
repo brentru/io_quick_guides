@@ -1,6 +1,10 @@
 # Getting Started with Adafruit IO Python
 
-Want to interact with Adafruit IO using Python? Let's get up and running!
+Adafruit IO Python makes it simple to get your project's data into the best data system in the world - [Adafruit IO](http://io.adafruit.com). 
+
+You can send *any* data from your Python script to Adafruit IO, and retrieve data from Adafruit IO into your Python script. 
+
+Ready to interact with Adafruit IO with Python?
 
 # Installing Adafruit IO Python
 
