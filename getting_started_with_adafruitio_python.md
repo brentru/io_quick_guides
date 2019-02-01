@@ -8,9 +8,9 @@ Ready to interact with Adafruit IO with Python?
 
 # Installing Adafruit IO Python
 
-Before we start, you'll need Python 3.4 or above installed.
+Before we start, you'll need Python 3.4 or above installed on Windows, MacOS or Linux hardware. This hardware also needs an active internet connection to connect to Adafruit IO.
 
-If you have  [PIP](https://pip.pypa.io/en/stable/installing/)  installed (typically with apt-get install python-pip on a Debian/Ubuntu-based system) then run:
+If you have  [PIP](https://pip.pypa.io/en/stable/installing/) installed (typically with apt-get install python-pip on a Debian/Ubuntu-based system), run:
 
 `pip3 install adafruit-io`
 
